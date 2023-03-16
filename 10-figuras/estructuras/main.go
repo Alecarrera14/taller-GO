@@ -1,8 +1,8 @@
 package main
 
 import (
-	"figuras/figuras"
 	"fmt"
+	"tallergo/10-figuras/figuras"
 )
 
 func main() {

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"condicionales/condicionales"
 	"fmt"
+	"tallergo/05-condicionales/condicionales"
 	"time"
 )
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"arreglos/arreglos"
 	"fmt"
+	"tallergo/08-arreglos/arreglos"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"funciones/funciones"
+	"tallergo/04-funciones/funciones"
 )
 
 func main() {

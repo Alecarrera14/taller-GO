@@ -1,6 +1,6 @@
 package main
 
-import "ciclos/ciclos"
+import "tallergo/06-ciclos/ciclos"
 
 func main() {
 	ciclos.Java()
